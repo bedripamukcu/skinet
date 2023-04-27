@@ -1,0 +1,12 @@
+/home/niyazi/skinet/Core/bin/Debug/net7.0/Core.deps.json
+/home/niyazi/skinet/Core/bin/Debug/net7.0/Core.dll
+/home/niyazi/skinet/Core/bin/Debug/net7.0/Core.pdb
+/home/niyazi/skinet/Core/obj/Debug/net7.0/Core.csproj.AssemblyReference.cache
+/home/niyazi/skinet/Core/obj/Debug/net7.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/niyazi/skinet/Core/obj/Debug/net7.0/Core.AssemblyInfoInputs.cache
+/home/niyazi/skinet/Core/obj/Debug/net7.0/Core.AssemblyInfo.cs
+/home/niyazi/skinet/Core/obj/Debug/net7.0/Core.csproj.CoreCompileInputs.cache
+/home/niyazi/skinet/Core/obj/Debug/net7.0/Core.dll
+/home/niyazi/skinet/Core/obj/Debug/net7.0/refint/Core.dll
+/home/niyazi/skinet/Core/obj/Debug/net7.0/Core.pdb
+/home/niyazi/skinet/Core/obj/Debug/net7.0/ref/Core.dll
